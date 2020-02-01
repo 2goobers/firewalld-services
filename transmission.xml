@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service>
   <short>transmission</short>
-  <description>.</description>
+  <description>Transmission is a BitTorrent client which features a variety of user interfaces on top of a cross-platform back-end.</description>
   <port protocol="tcp" port="9091"/>
 </service>
