@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <service>
-  <short>unifi</short>
+  <short>unifi-controller</short>
   <description>.</description>
   <port protocol="udp" port="10001"/>
   <port protocol="udp" port="3478"/>
