@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>unifi</short>
+  <description>.</description>
+  <port protocol="udp" port="1194"/>
+  <port protocol="tcp" port="9443"/>
+  <port protocol="tcp" port="943"/>
+</service>

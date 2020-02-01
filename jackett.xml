@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>jackett</short>
+  <description>Jackett is a single repository of maintained indexer scraping and translation logic</description>
+  <port protocol="tcp" port="9117"/>
+</service>

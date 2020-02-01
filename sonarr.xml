@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>sonarr</short>
+  <description>Smart PVR for newsgroup and bittorrent users.</description>
+  <port protocol="tcp" port="8989"/>
+</service>

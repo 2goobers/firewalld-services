@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>transmission</short>
+  <description>.</description>
+  <port protocol="tcp" port="9091"/>
+</service>
