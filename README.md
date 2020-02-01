@@ -1,5 +1,7 @@
 # firewalld-services
-Collection of firewalld service xmls
+Collection of firewalld service XMLs
+
+# How to use
 
 Add these XMLs to /etc/firewalld/services/
 
