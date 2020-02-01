@@ -5,6 +5,6 @@ Collection of firewalld service XMLs
 
 Add these XMLs to /etc/firewalld/services/
 
-do firewall-cmd --reload
+$ sudo firewall-cmd --reload
 
-do firewall-cmd --add-service=
+$ sudo firewall-cmd --add-service=
