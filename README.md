@@ -7,4 +7,4 @@ Add these XMLs to /etc/firewalld/services/
 
 $ sudo firewall-cmd --reload
 
-$ sudo firewall-cmd --add-service=
+$ sudo firewall-cmd --add-service=#name-of-service
